@@ -1,9 +1,10 @@
 package com.sample.test.demo;
 
-import static org.testng.Assert.assertTrue;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
+
+import static org.testng.Assert.assertTrue;
 
 public class Configuration {
 

@@ -1,11 +1,8 @@
 package com.sample.test.demo.pages;
 
-import com.sample.test.demo.constants.PizzaToppings;
-import com.sample.test.demo.constants.PizzaTypes;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.DataProvider;
 
 public class BasePage {
 

@@ -3,7 +3,6 @@ package com.sample.test.demo.tests;
 import com.sample.test.demo.pages.IndexPage;
 import org.testng.annotations.Test;
 
-
 import static org.testng.Assert.assertEquals;
 
 public class PlaceOrderTest extends BaseTest{

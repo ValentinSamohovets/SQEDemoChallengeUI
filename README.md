@@ -46,8 +46,7 @@ We will be evaluating
 5. When complete please check your code into your public git repo
 
 #### Test Cases
-
-0. Check all field labels and select options in selects    
+   
 1. Place order for small pizza without topping, pay by credit card  
 2. Place order for small pizza with one topping, pay by cash 
 3. Place order for medium pizza with 2 toppings, pay by credit card 
@@ -56,7 +55,6 @@ We will be evaluating
 6. Place order for pizza with 1 topping, and do not select any toppings 
 7. Place order for pizza with 2 topping, and select only one topping 
 8. Place order for pizza with 2 topping, and do not select any toppings 
-If some toppings are not covered by test, need to add more tests for toppings  
 9. Place order for 2 pizzas 
 10. Place order for 10 pizzas 
 11. Place order for 100 pizzas 
@@ -71,5 +69,6 @@ If some toppings are not covered by test, need to add more tests for toppings
 19. Prepare an order and change pizza type, the cost should be changed 
 20. Prepare order and click reset, all fields should be set to default 
 
-    
+    - Check all field labels and select options in selects 
+    - If some toppings are not covered by test, need to add more tests for toppings      
 
